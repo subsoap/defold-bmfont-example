@@ -15,3 +15,5 @@ The materials you are looking for have a fnt at the end.
 If you want some text effects you'll need to add extra padding to add enough area around each font glyph.
 
 ![](bmfont_export_options.png)
+
+![](example.png)
