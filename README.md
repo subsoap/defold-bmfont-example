@@ -14,6 +14,8 @@ The materials you are looking for have a fnt at the end.
 
 If you want some text effects you'll need to add extra padding to add enough area around each font glyph.
 
+If you want to use BMFont for counters then you may want to make small fonts with only numeric glyphs and then enable "Equalize the cell heights" / "Force offsets to zero" in the Export Options. Otherwise your counters may look odd as they increase / decrease. Make sure you position at pixel perfect positions when using pixel fonts. Experiment and see what works.
+
 ![](bmfont_export_options.png)
 
 ![](example.png)
